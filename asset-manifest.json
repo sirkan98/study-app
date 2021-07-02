@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.js": "/study-app/static/js/main.fd446de7.chunk.js",
-    "main.js.map": "/study-app/static/js/main.fd446de7.chunk.js.map",
+    "main.js": "/study-app/static/js/main.d5925445.chunk.js",
+    "main.js.map": "/study-app/static/js/main.d5925445.chunk.js.map",
     "runtime-main.js": "/study-app/static/js/runtime-main.04cb0e36.js",
     "runtime-main.js.map": "/study-app/static/js/runtime-main.04cb0e36.js.map",
-    "static/js/2.eeb9c6be.chunk.js": "/study-app/static/js/2.eeb9c6be.chunk.js",
-    "static/js/2.eeb9c6be.chunk.js.map": "/study-app/static/js/2.eeb9c6be.chunk.js.map",
+    "static/js/2.2f1e2fa3.chunk.js": "/study-app/static/js/2.2f1e2fa3.chunk.js",
+    "static/js/2.2f1e2fa3.chunk.js.map": "/study-app/static/js/2.2f1e2fa3.chunk.js.map",
     "index.html": "/study-app/index.html",
-    "static/js/2.eeb9c6be.chunk.js.LICENSE.txt": "/study-app/static/js/2.eeb9c6be.chunk.js.LICENSE.txt"
+    "static/js/2.2f1e2fa3.chunk.js.LICENSE.txt": "/study-app/static/js/2.2f1e2fa3.chunk.js.LICENSE.txt",
+    "static/media/warning.c9fa5ee8.ico": "/study-app/static/media/warning.c9fa5ee8.ico"
   },
   "entrypoints": [
     "static/js/runtime-main.04cb0e36.js",
-    "static/js/2.eeb9c6be.chunk.js",
-    "static/js/main.fd446de7.chunk.js"
+    "static/js/2.2f1e2fa3.chunk.js",
+    "static/js/main.d5925445.chunk.js"
   ]
 }
